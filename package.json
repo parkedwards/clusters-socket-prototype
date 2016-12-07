@@ -1,0 +1,18 @@
+{
+  "name": "node-clusters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "helloBySoo": "^1.0.1",
+    "redis": "^2.6.3",
+    "socket.io": "^1.7.1",
+    "socket.io-redis": "^2.0.0"
+  }
+}
